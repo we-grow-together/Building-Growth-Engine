@@ -5,5 +5,5 @@
 1. [효과적인 NUX 디자인하기](design-an-effective-nux.md)
 2. [성장 방정식 정의하기](define-growth-equation.md)
 3. [북극성 지표 정의하기](define-north-star-metric.md)
-4. 온보딩 퍼널 (Onboarding Funnel) 디자인하기
-5. PMF (Product-Market Fit)를 찾아서
+4. [온보딩 퍼널 분석하기](analyze-onboarding-funnel.md)
+5. [Product-Market Fit을 찾아라](find-product-market-fit.md)
