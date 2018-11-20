@@ -1,4 +1,4 @@
-# 효과적인 NUX 디자인하기
+# 효과적인 NUX를 디자인하기
 
 ## NUX란 무엇인가?
 New User eXperience

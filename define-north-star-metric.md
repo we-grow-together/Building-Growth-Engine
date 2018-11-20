@@ -1,7 +1,9 @@
-# 북극성 지표 정의하기
+# 북극성 지표를 정하자
 NSM, North Star Metric
 MTM, Metric That Matters
 OMTM, One Metric That Matters
+
+단 하나의 지표!
 
 우리의 성장을 가장 잘 표현하는 단 하나의 메트릭을 정하자.
 Growth Equation에 포함되어 있어야.
