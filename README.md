@@ -2,7 +2,7 @@
 ['함께 성장하는 친구들' 유튜브 채널](http://bit.ly/2TnvFwlFromGithub)의 그로스 엔진 만들기 시리즈의 스크립트입니다.
 
 ## 에피소드
-1. [효과적인 NUX를 디자인하기](design-an-effective-nux.md)
+1. [효과적인 NUX를 디자인하기](what-is-a-nux.md)
 2. 우리만의 성장 방정식을 만들자
 
 ## 영상 보러가기
