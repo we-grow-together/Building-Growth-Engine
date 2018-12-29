@@ -47,6 +47,22 @@ aha moment!가 찾아 올까?
 
 
 
+
+Don’t focus on ‘virality’
+At Facebook, they tossed out virality’. All they wanted to focus on was:
+
+How do you get people in the front door
+How do you get them to their ‘a-ha’ moment as quickly as possible
+How do you deliver core product value as often as possible
+
+
+아하 모먼트!를 경험한 사용자들이 하는 행동일 뿐이다.
+virality는 후행 결과이다.
+
+그로스 해킹에 대한 가장 큰 오해가.. 이런 아이디어 하나로 대박을 거뒀다 이다...
+
+
+
 ## NUX를 디자인해 보자.
 자 이제, NUX와 aha moment가 무엇인지 이해했다면 NUX를 디자인해 봅시다.
 
