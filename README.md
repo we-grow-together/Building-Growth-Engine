@@ -2,17 +2,19 @@
 ['함께 성장하는 친구들' 유튜브 채널](http://bit.ly/2TnvFwlFromGithub)의 그로스 엔진 만들기 시리즈의 스크립트입니다.
 
 ## 에피소드
-1. [효과적인 NUX를 디자인하기](what-is-a-nux.md)
-2. 우리만의 성장 방정식을 만들자
+1. [신규 사용자 경험의 핵심, 아하 모먼트를 찾아라!](Find-Aha-Moment-For-Your-Startup.md)
+2. NUX 최적화하기
 
 ## 영상 보러가기
-[<img src="https://img.youtube.com/vi/kRPU70VG2GY/0.jpg" width="400">](http://bit.ly/2A5RFUd)
+[<img src="https://img.youtube.com/vi/Jqoyte5NfXQ/0.jpg" width="400">](https://youtu.be/Jqoyte5NfXQ)
+
 
 ## Team
 - Dano [(dano@dano.ai)](mailto:dano@dano.ai)
 
 ## Contributors
 - 주민석 (영상제작 컨설팅)
+- 고이선 (피드백)
 
 ## Donation
 이 프로젝트가 가능하도록 기부해 주신 분입니다.
