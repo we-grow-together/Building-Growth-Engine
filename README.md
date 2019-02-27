@@ -3,7 +3,7 @@
 
 ## 에피소드
 1. [신규 사용자 경험의 핵심, 아하 모먼트를 찾아라!](Find-Aha-Moment-For-Your-Startup.md)
-2. NUX 최적화하기
+2. [효과적인 NUX란 무엇인가?](Design-an-effective-NUX.md)
 
 ## 영상 보러가기
 [<img src="https://img.youtube.com/vi/Jqoyte5NfXQ/0.jpg" width="400">](https://youtu.be/Jqoyte5NfXQ)
@@ -17,7 +17,7 @@
 - 고이선 (피드백)
 
 ## Donation
-이 프로젝트가 가능하도록 기부해 주신 분입니다.
+이 프로젝트가 가능하도록 후원해 주신 분입니다.
 
 1. Nov 24, 2018 - **박재범** -  60만원
 
