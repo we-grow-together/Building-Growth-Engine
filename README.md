@@ -4,6 +4,7 @@
 ## 에피소드
 1. [신규 사용자 경험의 핵심, 아하 모먼트를 찾아라!](Find-Aha-Moment-For-Your-Startup.md)
 2. [효과적인 NUX란 무엇인가?](Design-an-effective-NUX.md)
+3. [신규 사용자를 사로잡는 훅이란?](Design-a-fascinating-hook.md)
 
 ## 영상 보러가기
 [<img src="https://img.youtube.com/vi/Jqoyte5NfXQ/0.jpg" width="400">](https://youtu.be/Jqoyte5NfXQ)
