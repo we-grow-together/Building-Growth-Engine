@@ -6,6 +6,7 @@
 2. [효과적인 NUX란 무엇인가?](Design-an-effective-NUX.md)
 3. [신규 사용자를 사로잡는 훅이란?](Design-a-fascinating-hook.md)
 
+
 ## 영상 보러가기
 [<img src="https://img.youtube.com/vi/Jqoyte5NfXQ/0.jpg" width="400">](https://youtu.be/Jqoyte5NfXQ)
 
@@ -23,6 +24,10 @@
 1. Nov 24, 2018 - **박재범** -  60만원
 
 후원계좌: 신한은행 321-02-526910 (이의정)
+
+또는 커피 한 잔 값으로 프로젝트를 후원하실 수 있습니다.
+
+[Buy me a coffee 링크](http://bit.ly/2EwvlVe)
 
 고맙습니다.
 
